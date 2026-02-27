@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>unblockedgames3000</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="You Just got hacked!" />
         <p className="sorry you failed this test">
-          Get started by editing <code>pages/index.js</code>
+          Be careful next time! <code>loser!</code>
         </p>
       </main>
 
